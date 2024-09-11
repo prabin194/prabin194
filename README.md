@@ -65,9 +65,3 @@
 <img src="https://raw.githubusercontent.com/prabin194/prabin194/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=prabin.paudel60&theme=default" alt="Layout with last medium posts"  />
-</div>
-
-###
